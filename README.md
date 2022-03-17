@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kakazhi
 - 👀 I’m interested in github
-- 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on myself
+- 🌱 I’m currently learning github.
 - 📫 How to reach me hmmm.... 
 
 <!---
